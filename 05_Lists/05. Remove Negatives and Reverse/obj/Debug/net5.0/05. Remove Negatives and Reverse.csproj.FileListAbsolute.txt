@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\ref\05. Remove Negatives and Reverse.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\bin\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\ref\05. Remove Negatives and Reverse.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\05. Remove Negatives and Reverse\obj\Debug\net5.0\05. Remove Negatives and Reverse.genruntimeconfig.cache

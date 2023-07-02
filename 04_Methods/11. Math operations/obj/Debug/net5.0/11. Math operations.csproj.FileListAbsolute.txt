@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\ref\11. Math operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\bin\Debug\net5.0\11. Math operations.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\ref\11. Math operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\11. Math operations\obj\Debug\net5.0\11. Math operations.genruntimeconfig.cache

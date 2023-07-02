@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\ref\04. List of Products.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\bin\Debug\net5.0\04. List of Products.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\ref\04. List of Products.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\04. List of Products\obj\Debug\net5.0\04. List of Products.genruntimeconfig.cache

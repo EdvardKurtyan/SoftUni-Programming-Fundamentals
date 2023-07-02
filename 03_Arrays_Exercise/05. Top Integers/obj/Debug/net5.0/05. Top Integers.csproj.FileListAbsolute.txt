@@ -1,0 +1,48 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\ref\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\ref\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\03 Arrays - Exercise\03ArraysExercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\bin\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\refint\05. Top Integers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\05. Top Integers.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\05. Top Integers\obj\Debug\net5.0\ref\05. Top Integers.dll

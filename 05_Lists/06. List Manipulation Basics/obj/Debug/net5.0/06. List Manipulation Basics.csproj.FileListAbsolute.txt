@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\ref\06. List Manipulation Basics.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\bin\Debug\net5.0\06. List Manipulation Basics.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\ref\06. List Manipulation Basics.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\06. List Manipulation Basics\obj\Debug\net5.0\06. List Manipulation Basics.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\ref\06. Middle Characters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\bin\Debug\net5.0\06. Middle Characters.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\ref\06. Middle Characters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\06. Middle Characters\obj\Debug\net5.0\06. Middle Characters.csproj.AssemblyReference.cache

@@ -1,0 +1,32 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\ref\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\bin\Debug\net5.0\10. Rage Expenses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\refint\10. Rage Expenses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\10. Rage Expenses.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\10. Rage Expenses\obj\Debug\net5.0\ref\10. Rage Expenses.dll

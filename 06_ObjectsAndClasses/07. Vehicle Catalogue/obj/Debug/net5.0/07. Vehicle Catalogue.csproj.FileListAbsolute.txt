@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\ref\07. Vehicle Catalogue.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.genruntimeconfig.cache

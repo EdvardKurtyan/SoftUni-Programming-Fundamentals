@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\ref\01. Integer Operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache

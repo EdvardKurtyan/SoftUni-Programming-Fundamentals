@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\ref\01. Reverse Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\bin\Debug\net5.0\01. Reverse Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\ref\01. Reverse Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\01. Reverse Strings\obj\Debug\net5.0\01. Reverse Strings.genruntimeconfig.cache

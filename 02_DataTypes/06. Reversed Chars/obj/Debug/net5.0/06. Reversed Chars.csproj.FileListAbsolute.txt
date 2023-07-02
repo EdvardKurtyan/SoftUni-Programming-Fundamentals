@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\ref\06. Reversed Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\ref\06. Reversed Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.genruntimeconfig.cache

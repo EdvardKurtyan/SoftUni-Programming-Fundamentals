@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\ref\03. Elevator.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\bin\Debug\net5.0\03. Elevator.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\ref\03. Elevator.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\03. Elevator\obj\Debug\net5.0\03. Elevator.genruntimeconfig.cache

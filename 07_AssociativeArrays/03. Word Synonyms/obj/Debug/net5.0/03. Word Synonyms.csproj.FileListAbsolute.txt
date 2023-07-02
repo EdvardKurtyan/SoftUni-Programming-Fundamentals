@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\ref\03. Word Synonyms.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\bin\Debug\net5.0\03. Word Synonyms.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\ref\03. Word Synonyms.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Lab\07AssociativeArraysLab\03. Word Synonyms\obj\Debug\net5.0\03. Word Synonyms.genruntimeconfig.cache

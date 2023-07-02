@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\ref\07. NxN Matrix.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\ref\07. NxN Matrix.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.genruntimeconfig.cache

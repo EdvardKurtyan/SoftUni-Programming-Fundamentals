@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\bin\Debug\net5.0\12. Refactor Special Numbers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\ref\12. Refactor Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\12. Refactor Special Numbers\obj\Debug\net5.0\12. Refactor Special Numbers.genruntimeconfig.cache

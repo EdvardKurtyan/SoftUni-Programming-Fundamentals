@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\ref\02. Division.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\bin\Debug\net5.0\02. Division.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\ref\02. Division.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\02. Division\obj\Debug\net5.0\02. Division.genruntimeconfig.cache

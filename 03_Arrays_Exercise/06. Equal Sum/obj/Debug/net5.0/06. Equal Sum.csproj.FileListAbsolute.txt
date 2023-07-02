@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\ref\06. Equal Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\bin\Debug\net5.0\06. Equal Sum.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\ref\06. Equal Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\06. Equal Sum\obj\Debug\net5.0\06. Equal Sum.genruntimeconfig.cache

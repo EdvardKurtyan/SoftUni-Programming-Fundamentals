@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\ref\04. Sum of Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\bin\Debug\net5.0\04. Sum of Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\ref\04. Sum of Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\04. Sum of Chars\obj\Debug\net5.0\04. Sum of Chars.genruntimeconfig.cache

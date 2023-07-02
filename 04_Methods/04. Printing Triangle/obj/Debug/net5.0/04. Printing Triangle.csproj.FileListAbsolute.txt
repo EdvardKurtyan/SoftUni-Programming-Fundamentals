@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\ref\04. Printing Triangle.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\bin\Debug\net5.0\04. Printing Triangle.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\ref\04. Printing Triangle.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\04. Printing Triangle\obj\Debug\net5.0\04. Printing Triangle.genruntimeconfig.cache

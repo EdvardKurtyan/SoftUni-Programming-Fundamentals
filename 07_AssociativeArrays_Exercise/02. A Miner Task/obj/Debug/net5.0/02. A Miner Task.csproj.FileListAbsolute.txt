@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\ref\02. A Miner Task.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\bin\Debug\net5.0\02. A Miner Task.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\ref\02. A Miner Task.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\02. A Miner Task\obj\Debug\net5.0\02. A Miner Task.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\ref\02. Repeat Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\bin\Debug\net5.0\02. Repeat Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\ref\02. Repeat Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\02. Repeat Strings\obj\Debug\net5.0\02. Repeat Strings.genruntimeconfig.cache

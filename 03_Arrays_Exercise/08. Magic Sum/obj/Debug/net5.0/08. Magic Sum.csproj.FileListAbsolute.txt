@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\ref\08. Magic Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\bin\Debug\net5.0\08. Magic Sum.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\ref\08. Magic Sum.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\08. Magic Sum\obj\Debug\net5.0\08. Magic Sum.genruntimeconfig.cache

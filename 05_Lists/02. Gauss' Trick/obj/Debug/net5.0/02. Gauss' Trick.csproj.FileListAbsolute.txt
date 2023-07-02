@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\ref\02. Gauss' Trick.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\bin\Debug\net5.0\02. Gauss' Trick.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\ref\02. Gauss' Trick.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\02. Gauss' Trick\obj\Debug\net5.0\02. Gauss' Trick.genruntimeconfig.cache

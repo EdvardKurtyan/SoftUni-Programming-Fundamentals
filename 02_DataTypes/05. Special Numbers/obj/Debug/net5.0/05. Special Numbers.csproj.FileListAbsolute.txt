@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\ref\05. Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\bin\Debug\net5.0\05. Special Numbers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\ref\05. Special Numbers.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\05. Special Numbers\obj\Debug\net5.0\05. Special Numbers.genruntimeconfig.cache

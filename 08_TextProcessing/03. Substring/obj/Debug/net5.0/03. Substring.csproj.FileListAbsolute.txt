@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\ref\03. Substring.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\bin\Debug\net5.0\03. Substring.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\ref\03. Substring.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.AssemblyReference.cache

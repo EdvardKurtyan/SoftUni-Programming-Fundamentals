@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\ref\04. Centuries to Minutes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\bin\Debug\net5.0\04. Centuries to Minutes.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\ref\04. Centuries to Minutes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\04. Centuries to Minutes\obj\Debug\net5.0\04. Centuries to Minutes.genruntimeconfig.cache

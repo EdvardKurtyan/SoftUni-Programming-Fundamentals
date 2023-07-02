@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\ref\02. Grades.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\bin\Debug\net5.0\02. Grades.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\ref\02. Grades.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\02. Grades\obj\Debug\net5.0\02. Grades.genruntimeconfig.cache

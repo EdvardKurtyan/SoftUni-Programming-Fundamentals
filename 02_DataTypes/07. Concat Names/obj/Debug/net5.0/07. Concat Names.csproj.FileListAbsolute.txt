@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\ref\07. Concat Names.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\bin\Debug\net5.0\07. Concat Names.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\ref\07. Concat Names.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\07. Concat Names\obj\Debug\net5.0\07. Concat Names.genruntimeconfig.cache

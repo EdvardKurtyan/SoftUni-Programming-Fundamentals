@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\ref\05. Digits, Letters and Other.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\bin\Debug\net5.0\05. Digits, Letters and Other.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\ref\05. Digits, Letters and Other.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Lab\08TextProcessingLab\05. Digits, Letters and Other\obj\Debug\net5.0\05. Digits, Letters and Other.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\ref\04. Students.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\bin\Debug\net5.0\04. Students.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\ref\04. Students.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\04. Students\obj\Debug\net5.0\04. Students.genruntimeconfig.cache

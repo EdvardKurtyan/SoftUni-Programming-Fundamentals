@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\bin\Debug\net5.0\06. Replace Repeating Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\ref\06. Replace Repeating Chars.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\06. Replace Repeating Chars\obj\Debug\net5.0\06. Replace Repeating Chars.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\ref\01. Advertisement Message.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\bin\Debug\net5.0\01. Advertisement Message.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\ref\01. Advertisement Message.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\01. Advertisement Message\obj\Debug\net5.0\01. Advertisement Message.genruntimeconfig.cache

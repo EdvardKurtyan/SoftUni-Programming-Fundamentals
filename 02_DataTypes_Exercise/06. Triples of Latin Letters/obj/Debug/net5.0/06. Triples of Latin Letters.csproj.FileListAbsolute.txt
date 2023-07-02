@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\bin\Debug\net5.0\06. Triples of Latin Letters.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\ref\06. Triples of Latin Letters.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\06. Triples of Latin Letters\obj\Debug\net5.0\06. Triples of Latin Letters.genruntimeconfig.cache

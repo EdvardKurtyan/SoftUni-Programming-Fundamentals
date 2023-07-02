@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\bin\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\ref\05. Print Part Of ASCII Table.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\05. Print Part Of ASCII Table\obj\Debug\net5.0\05. Print Part Of ASCII Table.genruntimeconfig.cache

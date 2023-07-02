@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\ref\07. Vending Machine.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\bin\Debug\net5.0\07. Vending Machine.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\ref\07. Vending Machine.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\07. Vending Machine\obj\Debug\net5.0\07. Vending Machine.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache

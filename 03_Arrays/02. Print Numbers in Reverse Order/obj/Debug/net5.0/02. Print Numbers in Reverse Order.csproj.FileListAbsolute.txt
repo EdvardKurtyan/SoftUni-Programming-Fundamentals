@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache

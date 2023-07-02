@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\ref\03. Merging Lists.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\bin\Debug\net5.0\03. Merging Lists.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\ref\03. Merging Lists.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Lab\05ListsLab\03. Merging Lists\obj\Debug\net5.0\03. Merging Lists.genruntimeconfig.cache

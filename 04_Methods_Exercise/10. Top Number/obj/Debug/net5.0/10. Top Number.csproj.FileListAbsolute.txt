@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\ref\10. Top Number.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache

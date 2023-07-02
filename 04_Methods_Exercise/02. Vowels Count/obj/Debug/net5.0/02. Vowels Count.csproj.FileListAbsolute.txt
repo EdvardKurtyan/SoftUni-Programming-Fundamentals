@@ -1,0 +1,32 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\ref\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\ref\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\04 Methods - Exercise\04MethodsExercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache

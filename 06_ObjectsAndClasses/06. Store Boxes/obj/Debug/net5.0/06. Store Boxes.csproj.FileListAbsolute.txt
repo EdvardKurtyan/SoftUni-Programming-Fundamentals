@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\ref\06. Store Boxes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\bin\Debug\net5.0\06. Store Boxes.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\ref\06. Store Boxes.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\06. Store Boxes\obj\Debug\net5.0\06. Store Boxes.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\ref\03. Articles 2.0.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\bin\Debug\net5.0\03. Articles 2.0.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\ref\03. Articles 2.0.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\03. Articles 2.0\obj\Debug\net5.0\03. Articles 2.0.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\ref\08. Town Info.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\bin\Debug\net5.0\08. Town Info.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\ref\08. Town Info.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\08. Town Info\obj\Debug\net5.0\08. Town Info.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\ref\02. Common Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\bin\Debug\net5.0\02. Common Elements.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\ref\02. Common Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\02. Common Elements\obj\Debug\net5.0\02. Common Elements.genruntimeconfig.cache

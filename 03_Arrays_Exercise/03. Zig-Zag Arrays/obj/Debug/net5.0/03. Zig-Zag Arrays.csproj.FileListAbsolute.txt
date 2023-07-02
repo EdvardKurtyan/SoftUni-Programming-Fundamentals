@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\bin\Debug\net5.0\03. Zig-Zag Arrays.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\ref\03. Zig-Zag Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Exercise\03ArraysExercise\03. Zig-Zag Arrays\obj\Debug\net5.0\03. Zig-Zag Arrays.genruntimeconfig.cache

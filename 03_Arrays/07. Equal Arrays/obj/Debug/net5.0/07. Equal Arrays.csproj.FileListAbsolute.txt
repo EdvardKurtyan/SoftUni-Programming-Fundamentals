@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache

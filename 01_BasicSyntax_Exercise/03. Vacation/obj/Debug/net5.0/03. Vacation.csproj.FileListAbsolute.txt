@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\ref\03. Vacation.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\bin\Debug\net5.0\03. Vacation.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\ref\03. Vacation.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\03. Vacation\obj\Debug\net5.0\03. Vacation.genruntimeconfig.cache

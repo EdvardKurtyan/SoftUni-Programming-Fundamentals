@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\ref\04. SoftUni Parking.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\bin\Debug\net5.0\04. SoftUni Parking.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\ref\04. SoftUni Parking.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\04. SoftUni Parking\obj\Debug\net5.0\04. SoftUni Parking.genruntimeconfig.cache

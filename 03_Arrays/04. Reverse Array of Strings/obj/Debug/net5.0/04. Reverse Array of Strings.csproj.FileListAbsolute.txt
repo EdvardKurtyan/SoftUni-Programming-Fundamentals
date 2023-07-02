@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\bin\Debug\net5.0\04. Reverse Array of Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\ref\04. Reverse Array of Strings.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Arrays - Lab\03ArraysLab\04. Reverse Array of Strings\obj\Debug\net5.0\04. Reverse Array of Strings.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\ref\05. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\bin\Debug\net5.0\05. Orders.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\ref\05. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Lab\04MethodsLab\05. Orders\obj\Debug\net5.0\05. Orders.genruntimeconfig.cache

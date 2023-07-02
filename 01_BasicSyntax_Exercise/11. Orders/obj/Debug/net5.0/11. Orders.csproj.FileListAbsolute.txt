@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\bin\Debug\net5.0\11. Orders.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\refint\11. Orders.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\11. Orders.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\01_BasicSyntax_Exercise\11. Orders\obj\Debug\net5.0\ref\11. Orders.dll

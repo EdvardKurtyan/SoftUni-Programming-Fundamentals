@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\ref\03. House Party.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\bin\Debug\net5.0\03. House Party.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\ref\03. House Party.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\05 Lists - Exercise\05ListsExercise\03. House Party\obj\Debug\net5.0\03. House Party.genruntimeconfig.cache

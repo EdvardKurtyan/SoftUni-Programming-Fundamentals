@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\ref\07. Order by Age.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\bin\Debug\net5.0\07. Order by Age.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\ref\07. Order by Age.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Exercise\07ObjectsAndClassesExercise\07. Order by Age\obj\Debug\net5.0\07. Order by Age.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\ref\02. Big Factorial.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\bin\Debug\net5.0\02. Big Factorial.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\ref\02. Big Factorial.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\02. Big Factorial\obj\Debug\net5.0\02. Big Factorial.genruntimeconfig.cache

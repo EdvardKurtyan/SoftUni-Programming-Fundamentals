@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\ref\09. Padawan Equipment.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\ref\09. Padawan Equipment.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Basic Syntax, Conditional Statements and Loops Exercise\02\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\ref\01. Randomize Words.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\bin\Debug\net5.0\01. Randomize Words.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\ref\01. Randomize Words.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Objects and Classes - Lab\07ObjectsAndClassesLab\01. Randomize Words\obj\Debug\net5.0\01. Randomize Words.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\ref\05. Courses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\bin\Debug\net5.0\05. Courses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\ref\05. Courses.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\05. Courses\obj\Debug\net5.0\05. Courses.genruntimeconfig.cache

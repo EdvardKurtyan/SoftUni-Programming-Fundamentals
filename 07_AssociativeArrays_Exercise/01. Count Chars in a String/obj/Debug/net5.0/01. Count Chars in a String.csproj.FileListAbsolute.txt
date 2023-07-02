@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\ref\01. Count Chars in a String.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\bin\Debug\net5.0\01. Count Chars in a String.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\ref\01. Count Chars in a String.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\07 Associative Arrays - Exercise\07AssociativeArraysExercise\01. Count Chars in a String\obj\Debug\net5.0\01. Count Chars in a String.genruntimeconfig.cache

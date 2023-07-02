@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\ref\02. Character Multiplier.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\bin\Debug\net5.0\02. Character Multiplier.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\ref\02. Character Multiplier.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\08 Text Processing - Exercise\08TextProcessingExercise\02. Character Multiplier\obj\Debug\net5.0\02. Character Multiplier.genruntimeconfig.cache

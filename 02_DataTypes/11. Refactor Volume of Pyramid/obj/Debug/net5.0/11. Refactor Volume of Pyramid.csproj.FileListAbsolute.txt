@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\ref\11. Refactor Volume of Pyramid.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\bin\Debug\net5.0\11. Refactor Volume of Pyramid.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\ref\11. Refactor Volume of Pyramid.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Lab\02DataTypesLab\11. Refactor Volume of Pyramid\obj\Debug\net5.0\11. Refactor Volume of Pyramid.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\ref\07. Water Overflow.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\ref\07. Water Overflow.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Data Types and Variables - Exercise\02DataTypesExercise\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.genruntimeconfig.cache

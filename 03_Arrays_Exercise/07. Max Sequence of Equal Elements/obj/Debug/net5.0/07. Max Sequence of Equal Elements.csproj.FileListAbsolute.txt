@@ -1,0 +1,16 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\bin\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.AssemblyReference.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\refint\07. Max Sequence of Equal Elements.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\07. Max Sequence of Equal Elements.genruntimeconfig.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#.new()\03_Arrays_Exercise\07. Max Sequence of Equal Elements\obj\Debug\net5.0\ref\07. Max Sequence of Equal Elements.dll

@@ -1,0 +1,15 @@
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.exe
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.deps.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.runtimeconfig.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.runtimeconfig.dev.json
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\ref\05. Add and Subtract.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\bin\Debug\net5.0\05. Add and Subtract.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.AssemblyInfoInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.AssemblyInfo.cs
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.csproj.CoreCompileInputs.cache
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\ref\05. Add and Subtract.dll
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.pdb
+F:\Edi\SoftUni\Programming Fundamentals with C#\Methods - Exercise\04MethodsExercise\05. Add and Subtract\obj\Debug\net5.0\05. Add and Subtract.genruntimeconfig.cache
